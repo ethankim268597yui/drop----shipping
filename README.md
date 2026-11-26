@@ -19,7 +19,7 @@ n that shows and hides this week's details.
  i got all my images from googol.
 
 ## AI assistance
-What i asced them  if mu cords are corrcct.
+What i asced them  if the cords are corrcct.
 
 ## What I would do next.
 i would want to make my websyte beter and bigger also to improve my cording.
