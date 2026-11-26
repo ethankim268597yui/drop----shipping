@@ -1,7 +1,7 @@
 # [dropshipping]
 
 ## What this site for
-this is a syte where custoners buy tings like clothes shues and costumes.
+this is a site where custoners buy tings like clothes shues and costumes.
 
 ## Who it is for
 the site is for people age 13-50 who are intrestes in duying things onlyne.
