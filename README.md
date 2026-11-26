@@ -10,7 +10,7 @@ the site is for people age 13-50 who are intrestes in duying things onlyne.
 you can open this site yousing  my github emailhttps://ethankim268597yui.github.io/drop----shipping/..
 
 ## What it does
-sell clothes,shues and costumes.
+- sell clothes,shues and costumes.
 - A butto- the button show thess weeks details is used to show what i want to do this week
 n that shows and hides this week's details.
 - A-the script inscript.js makes the "show this week's detail"button interactive.
