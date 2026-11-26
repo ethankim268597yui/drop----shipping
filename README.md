@@ -16,7 +16,7 @@ n that shows and hides this week's details.
 - A-the script inscript.js makes the "show this week's detail"button interactive.
 
 ## Sources
- i got all my images from googol.
+ i got all my images from google.
 
 ## AI assistance
 What i asced them  if the cords are corrcct.
