@@ -1,24 +1,25 @@
-# [Site name]
+# [dropshipping]
 
-## What this site is
-One or two sentences.
+## What this site for
+this is a syte where custoners buy tings like clothes shues and costumes.
 
 ## Who it is for
-[Your user] and what they need from it.
+the site is for people age 13-50 who are intrestes in duying things onlyne.
 
 ## How to open it
-Live site: [your GitHub Pages address]
+you can open this site yousing  my github emailhttps://ethankim268597yui.github.io/drop----shipping/..
 
 ## What it does
-- Three connected pages: Home, About, More
-- A button that shows and hides this week's details
-- A list built from data (added on Day 6)
+sell clothes,shues and costumes.
+- A butto- the button show thess weeks details is used to show what i want to do this week
+n that shows and hides this week's details.
+- A-the script inscript.js makes the "show this week's detail"button interactive.
 
 ## Sources
-Every image, fact and dataset is listed on the About page and in my source record.
+ i got all my images from googol.
 
 ## AI assistance
-What I asked the AI (Claude or Cursor), what I checked and what I changed is in my AI accountability log.
+What i asced them  if mu cords are corrcct.
 
-## What I would do next
-One or two ideas.
+## What I would do next.
+i would want to make my websyte beter and bigger also to improve my cording.
